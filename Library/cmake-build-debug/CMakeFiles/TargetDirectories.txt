@@ -1,0 +1,5 @@
+C:/Users/mihal/CLionProjects/Library/cmake-build-debug/CMakeFiles/Library.dir
+C:/Users/mihal/CLionProjects/Library/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mihal/CLionProjects/Library/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/mihal/CLionProjects/Library/cmake-build-debug/CMakeFiles/Library_autogen_timestamp_deps.dir
+C:/Users/mihal/CLionProjects/Library/cmake-build-debug/CMakeFiles/Library_autogen.dir
